@@ -44,6 +44,10 @@ task hello(type: JavaExec) {
 	classpath += sourceSets.main.output;
 	main = "cn.hinus.welcome.Hello";
 }
+//task hello << {
+//	println 'welcome to gradle';
+//}
+
 
 task calc(type: JavaExec) {
 	classpath += sourceSets.main.output;

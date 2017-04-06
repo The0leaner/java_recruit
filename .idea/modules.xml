@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecruit.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecruit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecruit_main.iml" group="javarecruit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecruit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecruit_test.iml" group="javarecruit" />
+    </modules>
+  </component>
+</project>
